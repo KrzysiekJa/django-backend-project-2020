@@ -2,9 +2,9 @@
 The project was implemented as the Internet Engineering to pass course.
 
 ```
-The project was aimed at creating a backend for an application supporting the recipe management
-system (commercial public access application). The application performs account creation, 
-logging and administration thanks to the functionality provided by Django.
+The project was aimed at creating a backend for an application supporting the recipe 
+management system (commercial public access application). The application performs account 
+creation, logging and administration thanks to the functionality provided by Django.
 ```
 
 
